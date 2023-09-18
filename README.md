@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently a Computer Science student at Reichman University.<br>👯 I'm interested in teaming up for web development ventures, mobile app projects, and machine learning tasks.<br>🌱 I’m presently focused on expanding my skills in programming, data analysis, and software development.<br>💬 Feel free to ask me about my preferred programming languages and technology interests.
+I am a bitch!
 
 
 ## 🌐 Socials:
